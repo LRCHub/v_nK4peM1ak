@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "HEART BEAT",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-27T12:53:43.962557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Heart Beat Like a Hammer (Take 1)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/01_My_Heart_Beat_Like_a_Hammer_(Take_1)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Heart Beat Like a Hammer (Take 2)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/02_My_Heart_Beat_Like_a_Hammer_(Take_2)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heart Beat",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/03_Heart_Beat_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heart Beat",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/04_Heart_Beat_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only a Heart Beat Away",
+      "artist": "Vixen",
+      "has_synced": true,
+      "path": "select/05_Only_a_Heart_Beat_Away_Vixen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RobertaFlack (Martyn's Heart Beat Mix)",
+      "artist": "Flying Lotus",
+      "has_synced": false,
+      "path": "select/06_RobertaFlack_(Martyn's_Heart_Beat_Mix)_Flying_Lotus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "RobertaFlack (Martyn’s Heart Beat Mix)",
+      "artist": "Flying Lotus",
+      "has_synced": false,
+      "path": "select/07_RobertaFlack_(Martyn’s_Heart_Beat_Mix)_Flying_Lotus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Does Your Heart Beat Slower",
+      "artist": "June of 44",
+      "has_synced": false,
+      "path": "select/08_Does_Your_Heart_Beat_Slower_June_of_44.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Universal Heart-Beat",
+      "artist": "Juliana Hatfield",
+      "has_synced": true,
+      "path": "select/09_Universal_Heart-Beat_Juliana_Hatfield.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart Beat Hits",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/10_Heart_Beat_Hits_Therapy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Beat Rock",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/11_Heart_Beat_Rock_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heart Beat",
+      "artist": "Wishbone Ash",
+      "has_synced": false,
+      "path": "select/12_Heart_Beat_Wishbone_Ash.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heart Beat, Pig Meat",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/13_Heart_Beat,_Pig_Meat_Pink_Floyd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEART BEAT",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_HEART_BEAT_YOASOBI.txt"
+    }
+  ]
+}
